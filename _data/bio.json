@@ -1,57 +1,52 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Eudmar Almeida",
+    "label": "Cientista de Dados",
+    "picture": "https://almeida-eud.github.io/images/eud1.jpg",
+    "email": "eudmar.almeida@gmail.com",
+    "phone": "",
+    "website": "https://almeida-eud.github.io",
+    "summary": "Eu sou Graduado em Estatística (2013) pela Universidade Federal do Pará e Mestre em Bioestatística (2015) pela Universidade Estadual de Maringá.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Belém",
+      "countryCode": "Brazil",
+      "region": "Pará"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "almeida-eud",
+        "url": "http://github.com/almeida-eud"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "eudmar-almeida",
+        "url": "http://linkedin.com/in/eudmar-almeida"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "kaggle",
+        "username": "eudmar",
+        "url": "https://www.kaggle.com/eudmar"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Big Data",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
