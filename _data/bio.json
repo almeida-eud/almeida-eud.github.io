@@ -3,37 +3,32 @@
     "name": "Eudmar Almeida",
     "label": "Cientista de Dados",
     "picture": "https://almeida-eud.github.io/images/eud1.jpg",
-    "email": "molly@hawaii.edu",
+    "email": "eudmar.almeida@gmail.com",
     "phone": "",
     "website": "https://almeida-eud.github.io/",
     "summary": "Eu sou Graduado em Estatística (2013) pela Universidade Federal do Pará e Mestre em Bioestatística (2015) pela Universidade Estadual de Maringá.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Belém",
+      "countryCode": "Brasil",
+      "region": "Pará"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "almeida-eud",
+        "url": "http://github.com/almeida-eud"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "eudmar-almeida",
+        "url": "http://linkedin.com/in/eudmar-almeida"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "kaggle",
+        "username": "eudmar",
+        "url": "https://www.kaggle.com/eudmar"
       }
     ]
   },
