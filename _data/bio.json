@@ -27,7 +27,7 @@
       }
     ]
   },
-  "interests": [
+  "interesses": [
     {
       "name": "Big Data",
       "keywords": [
@@ -43,6 +43,8 @@
     {
       "name": "Machine Learning",
       "keywords": [
+        "Regressão Linear",
+        "Árvore de Decisão"
       ]
     }
   ],
