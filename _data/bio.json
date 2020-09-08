@@ -6,13 +6,13 @@
     "email": "eudmar.almeida@gmail.com",
     "phone": "",
     "website": "https://almeida-eud.github.io/",
-    "summary": "Eu sou Graduado em Estatística (2013) pela Universidade Federal do Pará e Mestre em Bioestatística (2015) pela Universidade Estadual de Maringá.",
+    "summary": "Sou Graduado em Estatística (2013) pela Universidade Federal do Pará e Mestre em Bioestatística (2015) pela Universidade Estadual de Maringá.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Belém",
       "countryCode": "Brasil",
-      "region": "Pará"
+      "region": "Pará,"
     },
     "profiles": [
       {
@@ -24,29 +24,24 @@
         "network": "linkedin",
         "username": "eudmar-almeida",
         "url": "http://linkedin.com/in/eudmar-almeida"
-      },
-      {
-        "network": "kaggle",
-        "username": "eudmar",
-        "url": "https://www.kaggle.com/eudmar"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Big Data",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
